@@ -98,3 +98,5 @@ Define URL patterns in the project's `urls.py` file to route requests to the app
 3. Implement a login form, authenticating users based on entered credentials.
 
 Feel free to explore and customize the project further based on your preferences and requirements.
+
+![Login - Brave 2024-01-12 20-23-27](https://github.com/samagra44/Netflix-Clone/assets/77968722/0546842e-f759-40b1-80d6-04b10fcc693c)
